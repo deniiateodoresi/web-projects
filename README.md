@@ -18,10 +18,10 @@ Users can create accounts/login on this page. After they create an account, they
 ***App preview***
 ###### Create account page
 ![](public/create_account.PNG)
+###### After creating account message
+![](public/thanks.PNG)
 ###### Confirmation email
 ![](public/mail.PNG)
-###### After click on confirmation page
-![](public/thanks.PNG)
 
 ###### Login and posting photos
 ![](public/demo_login.gif)
