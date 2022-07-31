@@ -16,8 +16,12 @@ Users can create accounts/login on this page. After they create an account, they
 
 
 ***App preview***
-###### Creating account - steps
-![](public/create_account.PNG)![](public/mail.PNG)![](public/thanks.PNG)
+###### Create account page
+![](public/create_account.PNG)
+###### Confirmation email
+![](public/mail.PNG)
+###### After click on confirmation page
+![](public/thanks.PNG)
 
 ###### Login and posting photos
 ![](public/demo_login.gif)
