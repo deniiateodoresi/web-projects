@@ -25,3 +25,12 @@ Users can create accounts/login on this page. After they create an account, they
 
 ###### Login and posting photos
 ![](public/demo_login.gif)
+
+----
+
+## Recipe review
+
+Users can leave reviews for a recipe. Before being posted, an admin must approve or reject those reviews. The admin has its login credentials (not everyone can manage posted reviews).
+
+***App preview***
+![](public/recipe_reviews.gif)
